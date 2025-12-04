@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "【ファンタスティックユース】とても素敵な六月でした【COVER】",
+  "base_artist": "FantasticYouth",
+  "createdAt": "2025-12-04T03:14:28.858145Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "とても素敵な六月でした",
+      "artist": "Fantastic Youth",
+      "has_synced": false,
+      "path": "select/pl_01_とても素敵な六月でした_Fantastic_Youth.txt"
+    }
+  ]
+}
